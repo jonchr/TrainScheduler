@@ -7,7 +7,7 @@ The train scheduler allows users to store train information in a Firebase databa
 
 ### Development
 
-This site was developed as part of the GW Coding Bootcamp and was completed at during the fourth week. It was built using HTML5, CSS3 with Bootstrap v3.3.7, Javascript, and jQuery. It also featured Moment.js and Firebase. For more information on those last two, see http://momentjs.com/ and https://firebase.google.com/
+This site was developed as part of the GW Coding Bootcamp and was completed during the fourth week. It was built using HTML5, CSS3 with Bootstrap v3.3.7, Javascript, and jQuery. It also featured Moment.js and Firebase. For more information on those last two, see http://momentjs.com/ and https://firebase.google.com/
 
 ### Organization
 
