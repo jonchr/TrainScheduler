@@ -22,3 +22,5 @@ The HTML and CSS code is contained within index.html, while the Javascript and j
 ## Screenshots
 ### Main Page with two trains currently tracked
 ![Main Page](main_page.png)
+### Train Information Stored in Firebase
+![Firebase Screenshot](firebase_screenshot.png)
